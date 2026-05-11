@@ -67,3 +67,14 @@ Para los esquemas de validación:
 ```bash
 $ npm install joi
 ```
+
+La gestión de la base de datos se realiza con Prisma:
+```bash
+$ npm install prisma --save-dev
+$ npx prisma init
+$ npx prisma migrate dev --name init
+
+$ npm install @prisma/client
+$ npx prisma generate
+$ npm install @prisma/adapter-better-sqlite3
+```
