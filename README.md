@@ -50,3 +50,20 @@ En este repositorio se trabajan los siguientes aspectos de Nest:
 
 ## Librerías utilizadas
 
+Para las validaciones se utilizan:
+
+```bash
+$ npm install class-validator class-transformer
+```
+
+Para la gestión de variables de entorno:
+
+```bash
+$ npm install dotenv
+```
+
+Para los esquemas de validación:
+
+```bash
+$ npm install joi
+```
