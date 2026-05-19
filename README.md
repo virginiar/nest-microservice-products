@@ -47,6 +47,7 @@ En este repositorio se trabajan los siguientes aspectos de Nest:
 -	Transformar REST a Microservicio
 -	Aplicaciones Híbridas Rest + Microservicios
 -	GitHub - Organizaciones
+- Añadiendo endpoint para validación de productos
 
 ## Librerías utilizadas
 
