@@ -48,6 +48,7 @@ En este repositorio se trabajan los siguientes aspectos de Nest:
 -	Aplicaciones Híbridas Rest + Microservicios
 -	GitHub - Organizaciones
 - Añadiendo endpoint para validación de productos
+- Agregando NATS como canal de comunicación
 
 ## Librerías utilizadas
 
@@ -85,4 +86,10 @@ Para convertir en microservicio:
 
 ```bash
 $ npm i --save @nestjs/microservices
+```
+
+Para utilizar NATS para las comunicaciones del microservicio:
+
+```bash
+$ npm i --save nats
 ```
